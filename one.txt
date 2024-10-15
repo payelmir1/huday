@@ -1,7 +1,4 @@
 This is a One.txt file.
 
-ame aro kesu add Korlam.
-
-
-feature-10 update.
+feature 100
 
